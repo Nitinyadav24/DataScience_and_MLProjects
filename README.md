@@ -1,4 +1,4 @@
-## Data Science and Machine Leraning code snippets 
+## Data Science and Machine learning code snippets 
 
 1. **Basics and Data Analysis**  
 
